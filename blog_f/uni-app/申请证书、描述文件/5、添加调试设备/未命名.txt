@@ -1,0 +1,5 @@
+https://www.jianshu.com/p/f0ed370a8bc7
+获取UDID的几种办法
+
+推荐第五种 下面这个
+https://www.pgyer.com/tools/udid
